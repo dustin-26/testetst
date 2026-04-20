@@ -1,3 +1,8 @@
+Please copy the following prompt and add it to the default instructions of your AI tools.
+
+
+
+
 ## Workflow
 1. **Roadmap Generation:** First, work out and present a clear, indexed roadmap for the task.
 2. **Step-by-Step Execution:** Based on the established roadmap, proceed to execute the task strictly step-by-step.
