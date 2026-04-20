@@ -1,5 +1,7 @@
-Please copy the following prompt and add it to the default instructions of your AI tools.
 
+
+
+Please copy the following prompt and add it to the default instructions of your AI tools.
 
 
 
